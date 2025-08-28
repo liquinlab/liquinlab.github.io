@@ -26,6 +26,20 @@
 
         },
         {
+            "name": "Lyra Joson",
+            "type": "Lab Manager",
+            "bio": "Lyra Joson is the lab manager of ELM Lab and a proud alumnus of the University of New Hampshire, where she pursued a double major in Psychology and Linguistics. Her academic interests lie in psycholinguistics, exploring the fascinating intersection of language and cognitive processes. Passionate about research, she is dedicated to understanding how people acquire, process, and use language. Outside the lab, she enjoys solving Rubik's cubes, playing video games, spending time with her cats, and reading books.",
+            "img": "LyraJoson.jpeg",
+            "alumni": true,
+            "links": [
+                {
+                    "name": "email",
+                    "url": "mailto:lyra.joson@unh.edu"
+                }
+            ]
+
+        },
+        {
             "name": "Skyler Murphy",
             "type": "Lab Manager",
             "bio": "Skye is a senior majoring in Psychology at the University of New Hampshire. She is from Connecticut and enjoys spending her time reading, hammocking, and Djing for WUNH. Skye is excited to gain experience within the psychology field through this lab that will aid her in her future endeavors.",
@@ -61,6 +75,35 @@
             "type": "RA",
             "bio": "Angel is a recent UNH graduate with a B.S. in Neuroscience & Behavior, with minors in Psychology and Forensics. She hopes to continue her education and pursue a PhD focusing on the interrelationship of neuroscience & psychology in clinical settings. Angel is from Derry, NH and in her free time enjoys singing and spending quality time with her friends, family, and dogs.",
             "img": "AngelEaton.jpeg"
+        },
+                {
+            "name": "Julie Fredricksen",
+            "type": "RA",
+            "bio": "Julie is a senior majoring in Neuroscience and Behavior at UNH. She is from Connecticut and enjoys playing tennis and going on hikes. Julie has enjoyed the psychology courses she has taken so far and looks forward to putting what she learned to use in this lab!",
+            "img": "JulieFredricksen.png",
+            "alumni": true
+        },
+        {
+            "name": "Zach Gabriel",
+            "type": "RA",
+            "bio": "Zach is a sophomore psychology major at UNH. He is a member of the club rugby team and enjoys being outdoors and watching sports with friends. His interests in the field include counseling, cognitive, and social psychology. A major goal of his he looks forward to in his career is to help professional athletes with their mental health.",
+            "img": "ZachGabriel.png",
+            "alumni": true
+        },
+        {
+            "name": "Tucker Lane",
+            "type": "RA",
+            "bio": "Tucker is a senior in Psychology at UNH with a minor in music. He grew up In Dover, NH, where he had a heavy presence in the schools’ music departments playing the trumpet and clarinet. His involvement in music at UNH is in jazz guitar. He is particularly interested in personality, social, and developmental aspects of psychology; His career goal is to teach psychology at the college level.",
+            "img": "TuckerLane.png",
+            "alumni": true
+        },
+
+        {
+            "name": "Sydney Staples",
+            "type": "RA",
+            "bio": "Sydney is a fourth-year psychology student, pursuing a human development and family studies minor at UNH. She is from Northern Virginia. In her free time, she is a competitive powerlifter and fitness influencer. She is interested in further studying developmental psychology and trauma in children.",
+            "img": "SydneyStaples.png",
+            "alumni": true
         }
 
     ]
