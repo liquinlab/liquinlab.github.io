@@ -2,7 +2,13 @@
 import { reactive, onMounted } from "vue";
 import oboe from "oboe"; // ajax support
 
-const peopleList = reactive({ PIList: [], LMList: [], GSList: [], RAList: [] });
+const peopleList = reactive({
+  PIList: [],
+  LMList: [],
+  GSList: [],
+  ThesisList: [],
+  RAList: [],
+});
 const AlumList = reactive({ individuals: [] });
 
 oboe("/data/people.json?nocache=" + new Date().getTime()) // don't cache the json file
@@ -40,6 +46,20 @@ oboe("/data/people.json?nocache=" + new Date().getTime()) // don't cache the jso
         peopleList.GSList.push(entry);
       }
     }
+    // if type is thesis, set to Thesis Students
+    if (entry.type === "Thesis") {
+      entry.type = "Honors Thesis Students";
+      if (entry.alumni) {
+        entry.type = "Honors Thesis Student";
+        AlumList.individuals.push(entry);
+      } else {
+        if (peopleList.ThesisList.length === 0) {
+          entry.first = true;
+        }
+        peopleList.ThesisList.push(entry);
+      }
+    }
+
     // if type is RA, set to Research Assistants
     if (entry.type === "RA") {
       entry.type = "Research Assistants";
