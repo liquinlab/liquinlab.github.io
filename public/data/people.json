@@ -64,6 +64,18 @@
             ]
 
         },
+          {
+            "name": "Kara Dudley",
+            "type": "Thesis",
+            "bio": "Kara is a junior at UNH majoring in psychology with a minor in philosophy. She is interested in understanding the intersections of psychology and philosophy in order to help others. Kara is from Brookline, NH and enjoys making art, taking photos and reading books in her free time.",
+            "img": "KaraDudley.jpeg"    
+        },
+        {
+            "name": "Virginia Schwarz",
+            "type": "Thesis",
+            "bio": "Virginia is a senior majoring in Psychology and minoring in Forensics and Justice Studies at UNH. She hopes to continue her education and pursue a PhD with the hope of working in a correctional psychology setting. In her free time Virginia enjoys reading, writing, and spending time with friends.",
+            "img": "VirginiaSchwarz.jpeg"
+        },
         {
             "name": "Ella Curtis",
             "type": "RA",
