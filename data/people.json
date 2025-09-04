@@ -88,6 +88,18 @@
             "bio": "Angel is a recent UNH graduate with a B.S. in Neuroscience & Behavior, with minors in Psychology and Forensics. She hopes to continue her education and pursue a PhD focusing on the interrelationship of neuroscience & psychology in clinical settings. Angel is from Derry, NH and in her free time enjoys singing and spending quality time with her friends, family, and dogs.",
             "img": "AngelEaton.jpeg"
         },
+        {
+            "name": "Jaclyn Reynolds",
+            "type": "RA",
+            "bio": "Jaclyn is a junior majoring in psychology at UNH. She is interested in developmental psychology and curious about the impacts of environments in children’s lives. Jaclyn is from Raymond, NH, and likes to spend time taking walks, listening to music, and finding new cafes to try.",
+            "img": "JaclynReynolds.JPG"
+        },
+        {
+            "name": "Julia Rowe",
+            "type": "RA",
+            "bio": "Julia is a senior at the University of New Hampshire majoring in psychology with a minor in recreation management policy. She hopes to deepen her understanding of how people learn through research that will support her future work with children. She is from Massachusetts and enjoys reading and spending time with her friends in her free time.",
+            "img": "JuliaRowe.jpg"
+        },
                 {
             "name": "Julie Fredricksen",
             "type": "RA",
