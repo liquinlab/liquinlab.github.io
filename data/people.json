@@ -65,6 +65,18 @@
 
         },
           {
+            "name": "Tucker Lane",
+            "type": "Grad Student",
+            "bio": "Tucker is a first-year PhD student in the ELM Lab. He is interested in understanding how curiosity and imagination interact to guide learning. Outside of the lab, he enjoys making music, taking photos, and exploring new places.",
+            "img": "TuckerSept25Square.jpg",
+            "links": [
+                {
+                    "name": "email",
+                    "url": "mailto:tucker.lane@unh.edu"
+                }
+            ]
+        },
+          {
             "name": "Kara Dudley",
             "type": "Thesis",
             "bio": "Kara is a junior at UNH majoring in psychology with a minor in philosophy. She is interested in understanding the intersections of psychology and philosophy in order to help others. Kara is from Brookline, NH and enjoys making art, taking photos and reading books in her free time.",
@@ -126,14 +138,6 @@
             "img": "ZachGabriel.png",
             "alumni": true
         },
-        {
-            "name": "Tucker Lane",
-            "type": "RA",
-            "bio": "Tucker is a senior in Psychology at UNH with a minor in music. He grew up In Dover, NH, where he had a heavy presence in the schools’ music departments playing the trumpet and clarinet. His involvement in music at UNH is in jazz guitar. He is particularly interested in personality, social, and developmental aspects of psychology; His career goal is to teach psychology at the college level.",
-            "img": "TuckerLane.png",
-            "alumni": true
-        },
-
         {
             "name": "Sydney Staples",
             "type": "RA",
