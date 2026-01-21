@@ -98,7 +98,8 @@
             "name": "Angel Eaton",
             "type": "RA",
             "bio": "Angel is a recent UNH graduate with a B.S. in Neuroscience & Behavior, with minors in Psychology and Forensics. She hopes to continue her education and pursue a PhD focusing on the interrelationship of neuroscience & psychology in clinical settings. Angel is from Derry, NH and in her free time enjoys singing and spending quality time with her friends, family, and dogs.",
-            "img": "AngelEaton.jpeg"
+            "img": "AngelEaton.jpeg",
+            "alumni": true
         },
         {
             "name": "Stefan Nevajdic",
