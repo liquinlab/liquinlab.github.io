@@ -11,6 +11,10 @@
                     "url": ""
                 },
                 {
+                    "name": "link",
+                    "url": "https://direct.mit.edu/opmi/article/doi/10.1162/opmi.a.12/132237"
+                },
+                {
                     "name": "preprint",
                     "url": "https://osf.io/preprints/psyarxiv/4gtrz"
                 },
@@ -23,7 +27,7 @@
                     "url": "https://github.com/emilyliquin/question-reuse"
                 }
             ],
-            "full_citation": "Liquin, E. G., Rhodes, M. & Gureckis, T. M. (in press). Seeking new information with old questions: Children and adults reuse and remix concepts from prior questions. <i>Open Mind</i>."
+            "full_citation": "Liquin, E. G., Rhodes, M. & Gureckis, T. M. (2025). Seeking new information with old questions: Children and adults reuse and remix concepts from prior questions. <i>Open Mind, 9</i>, 885-925."
 
            },
                            {
@@ -472,7 +476,7 @@
                 {
             "title":  "A computational approach to disentangling the triggers of curiosity in children and adults.",
             "authors": "Liquin, E. G., Callaway, F., Lewry, C., & Lombrozo, T.",
-            "status": "under review",
+            "status": "in prep",
             "abstract": "If curiosity is the engine of learning, what does it direct agents to learn? The present research investigates what kinds of situations spark curiosity. Using a Bayesian computational model applied to a modified multi-armed bandit task, we investigated the correspondence between optimal triggers of curiosity (those that maximize learning potential), heuristic triggers of curiosity (surprise and uncertainty), and participants’ reported curiosity. In Studies 1-2 (N = 848), we found that adults’ curiosity was most sensitive to “local” learning potential (the extent to which information would shed light on the immediate target of curiosity). Curiosity was less sensitive to “global” learning potential (the extent to which information would contribute to broader learning goals), uncertainty, or surprise. Study 3 (N = 310) showed that curiosity’s sensitivity to local learning potential strengthened between ages 5 to 9 years and adulthood. Together, these studies suggest that curiosity tracks opportunities for learning, especially those that support learning about immediate targets of curiosity rather than broader learning goals.",
             "links": [
                 {
@@ -488,7 +492,7 @@
                     "url": "https://github.com/emilyliquin/disentangling-curiosity-triggers"
                 }
             ],
-            "full_citation": "Liquin, E. G., Callaway, F., Lewry, C., & Lombrozo, T. (under review). A computational approach to disentangling the triggers of curiosity in children and adults."
+            "full_citation": "Liquin, E. G., Callaway, F., Lewry, C., & Lombrozo, T. (in prep). A computational approach to disentangling the triggers of curiosity in children and adults."
 
            },
         {
