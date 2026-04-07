@@ -1,6 +1,32 @@
 {
     "peer-reviewed": [
                 {
+                "title":"More Time and Effort, Same Curiosity: Expected Effort Does Not Impact Curiosity.",
+                "authors":"Liquin, E. G.",
+                "year": "2026",
+                "abstract": "Why do people feel curious about some questions but not others? Recent accounts of curiosity argue that curiosity should be highest when learning is likely to occur and likely to be rapid. However, it is less clear whether practical barriers to learning—for example, the effort required to gain information—matter for how curious we feel. In three preregistered experiments with a total of 419 participants, we test whether the expected degree of effort to obtain information impacts curiosity. In Experiments 1 and 2, we prompted adult participants to rate their curiosity about the answers to trivia questions. For each question, they were informed that they would receive the answer with minimal time and effort or with substantial time and effort. In Experiment 3, we additionally varied the probability that exerting effort would lead to information. Across studies, we found that effort affected decisions to seek information, but not self-reported curiosity. This suggests that subjective feelings of curiosity are unhindered by the practical costs of information search, though our decisions to actually pursue information are highly sensitive to these costs.",
+                "links": [
+                    {
+                        "name": "pdf",
+                        "url": ""
+                    },
+                    {
+                        "name": "link",
+                        "url": "https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.342/135912/More-Time-and-Effort-Same-Curiosity-Expected"
+
+                    },
+                    {
+                    "name": "preprint",
+                    "url": "https://osf.io/preprints/psyarxiv/bceq7_v4"
+                },
+                {
+                    "name": "OSF",
+                    "url": "https://osf.io/js7x2/overview"
+                }
+                ],
+                "full_citation": "Liquin, E. G. (2026). More Time and Effort, Same Curiosity: Expected Effort Does Not Impact Curiosity. <i>Open Mind, 10</i>,  391–414."
+            },
+            {
             "title":  "Seeking new information with old questions: Children and adults reuse and recombine concepts from prior questions.",
             "authors": "Liquin, E. G., Rhodes, M. & Gureckis, T. M.",
             "year": "2025",
@@ -493,31 +519,7 @@
                 }
             ],
             "full_citation": "Liquin, E. G., Callaway, F., Lewry, C., & Lombrozo, T. (in prep). A computational approach to disentangling the triggers of curiosity in children and adults."
-
-           },
-        {
-            "title":  "More time and effort, same curiosity: Information accessibility does not impact curiosity.",
-            "authors": "Liquin, E. G.",
-            "status": "under review",
-            "abstract": "For some learning problems, information is readily available with minimal time and effort. For other learning problems, substantial time and effort is needed to gain information. Recent accounts of curiosity have suggested that curiosity should be highest when learning is likely to occur and likely to be rapid. This suggests that variation in “information accessibility” might affect curiosity—dampening curiosity when information is unlikely to be gained rapidly or easily. We tested this hypothesis in three experiments with a total of 419 participants. In Experiments 1 and 2, we prompted adult participants to rate their curiosity about the answers to trivia questions. For each trivia question, they were informed that information accessibility would be high—they would receive the answer with minimal time and effort—or low—they would receive the answer with substantial time and effort. In Experiment 3, we additionally varied the probability that information search would be successful. Across studies, we found that information accessibility affected decisions to seek information, but not self-reported curiosity. This suggests that curiosity is unhindered by the practical costs of information search.",
-            "links": [
-                {
-                    "name": "pdf",
-                    "url": ""
-                },
-                {
-                    "name": "preprint",
-                    "url": "https://osf.io/preprints/psyarxiv/bceq7"
-                },
-                {
-                    "name": "OSF",
-                    "url": "https://osf.io/js7x2/"
-                }
-            ],
-            "full_citation": "Liquin, E. G. (under review). More time and effort, same curiosity: Information accessibility does not impact curiosity."
-
-           }
-
+        }
     ]
-        
 }
+        
