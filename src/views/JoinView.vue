@@ -51,8 +51,9 @@ const ExpandRa = function () {
       <div v-if="phdExpand" class="card-content">
         <div class="content">
           <div class="block has-text-left is-size-custom has-text-weight-bold">
-            I will be reviewing applications for PhD students to start in Fall
-            2026.
+            I am no longer reviewing applications for PhD students to start in
+            Fall 2026, but I may consider applicants in future application
+            cycles.
           </div>
           <div class="block has-text-left is-size-custom">
             I am committed to supporting my PhD mentees in developing their own
