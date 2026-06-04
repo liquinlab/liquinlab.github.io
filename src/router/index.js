@@ -49,11 +49,11 @@ const router = createRouter({
       name: "contact",
       component: ContactView,
     },
-    // {
-    //   path: "/forparents",
-    //   name: "parents",
-    //   component: ParentView,
-    // },
+    {
+      path: "/forparents",
+      name: "parents",
+      component: ParentView,
+    },
   ],
   scrollBehavior(to, from, savedPosition) {
     // always scroll to top
