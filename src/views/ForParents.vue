@@ -74,8 +74,18 @@ import { reactive, ref } from "vue";
         </div>
 
         <div class="content has-text-left is-size-custom">
-          We are not currently recruiting participants for in-person studies.
-          Check back later for updates!
+          We are currently recruiting participants for in-person studies at the 
+          <a href="https://www.seacoastsciencecenter.org/"
+          target="_blank"
+          >Seacoast Science Center, </a
+          > a children's marine science mueseum! 
+          Studies will be carried out most weekends from Friday to Sunday. Our researchers are generally present from 10:00 - 2:00,
+          and may be recruiting for any number of projects currently under way.
+          <br />
+          <br />
+          Participation is dependent on the completion of a consent form, and is entirely voluntary. You or your child can withdraw at any time with no consequence. 
+          Most studies reward the child with interactive elements during testing, and stickers for them to keep afterwards. Studies take between five to ten minutes on average to complete.
+          Any further questions can be sent via email, or asked directly to our researchers on site!
         </div>
       </div>
     </div>
