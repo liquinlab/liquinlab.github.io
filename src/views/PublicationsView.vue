@@ -82,7 +82,7 @@ const GoTo = function (url) {
                     <p class="year has-text-left"><i>{{ i.journal }}</i> ({{ i.year }})</p> -->
 
                 <div class="field has-addons">
-                  <p class="control">
+                  <p class="control" v-if="i.abstract !== ''">
                     <button class="button" @click="ExpandAbstract(i.title)">
                       {{ i.abstract_label }}
                     </button>

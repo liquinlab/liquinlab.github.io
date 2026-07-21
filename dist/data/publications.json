@@ -518,7 +518,20 @@
                     "url": "https://github.com/emilyliquin/disentangling-curiosity-triggers"
                 }
             ],
-            "full_citation": "Liquin, E. G., Callaway, F., Lewry, C., & Lombrozo, T. (in prep). A computational approach to disentangling the triggers of curiosity in children and adults."
+            "full_citation": "Liquin, E. G., Callaway, F., Lewry, C., & Lombrozo, T. (under review). A computational approach to disentangling the triggers of curiosity in children and adults."
+        },
+                        {
+            "title":  "Mapping the triggers and consequences of everyday curiosity.",
+            "authors": "Lane, T. M. & Liquin, E. G.",
+            "status": "under review",
+            "abstract": "",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                }
+            ],
+            "full_citation": "Lane, T. M. & Liquin, E. G. (under review). Mapping the triggers and consequences of everyday curiosity."
         }
     ]
 }

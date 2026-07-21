@@ -83,13 +83,13 @@ function isRouteActive(path) {
         >
           Publications
         </a>
-        <!-- <a
+        <a
           class="navbar-item is-tab"
           @click="menuAction('/forparents')"
           :class="{ 'is-selected': isRouteActive('/forparents') }"
         >
           For Parents
-        </a> -->
+        </a>
         <a
           class="navbar-item is-tab"
           @click="menuAction('/join')"
