@@ -57,6 +57,7 @@
             "type": "Grad Student",
             "bio": "Madeline is a second-year PhD student in the ELM lab. She is most interested in researching what triggers us to be curious and how we can spark more playfulness in adults. When she’s not in the lab, she enjoys meditating, hosting dinner parties and finding local swimming holes.",
             "img": "MadelineKlotz2026.jpg",
+            "alumni": true,
             "links": [
                 {
                     "name": "email",
@@ -77,6 +78,18 @@
                 }
             ]
         },
+                  {
+            "name": "Seoyoon Jung",
+            "type": "Grad Student",
+            "bio": "Seoyoon is a first-year PhD student in the ELM Lab. She is interested in understanding how curiosity, effort, and uncertainty influence children's learning, exploration, and information seeking. Outside of the lab, she enjoys cooking, collecting cute things, decorating her space, and spending time with friends.",
+            "img": "SeoyoonJung.png",
+            "links": [
+                {
+                    "name": "email",
+                    "url": "mailto:seoyoon.jung@unh.edu"
+                }
+            ]
+        },
           {
             "name": "Kara Dudley",
             "type": "Thesis",
@@ -92,10 +105,23 @@
             "alumni": true
         },
         {
+            "name": "Jaclyn Reynolds",
+            "type": "Thesis",
+            "bio": "Jaclyn is a senior majoring in psychology at UNH. She is interested in developmental psychology and curious about the impacts of environments in children’s lives. Jaclyn is from Raymond, NH, and likes to spend time taking walks, listening to music, and finding new cafes to try.",
+            "img": "JaclynReynolds2026.jpg"
+        },
+                {
+            "name": "Grace Mahon",
+            "type": "Thesis",
+            "bio": "Grace is a senior at UNH majoring in psychology with a double minor in social work and leadership. She is interested in clinical psychology and examining how interest and knowledge shape the learning process. Grace is from Connecticut and enjoys competing as a member of the UNH swim team, listening to music and spending time with family.",
+            "img": "GraceMahon.png"
+        },
+        {
             "name": "Ella Curtis",
             "type": "RA",
             "bio": "Ella is a sophomore double majoring in psychology as well as neuroscience and behavior at UNH. She is interested in finding better ways to combat mental illness with a better understanding of neural connections. Ella is from Massachusetts and in her free time she enjoys watching sporting events and spending time with family.",
-            "img": "EllaCurtis2026.jpg"
+            "img": "EllaCurtis2026.jpg",
+            "alumni": true
         },
         {
             "name": "Angel Eaton",
@@ -107,15 +133,10 @@
         {
             "name": "Stefan Nevajdic",
             "type": "RA",
-            "bio": "Stefan is a junior majoring in psychology with a minor in philosophy. He is interested clinical psychology as well as the neurocognitive underpinnings of curiosity and learning. Stefan is from Laconia, NH, and enjoys reading, photography, hiking, and creative writing.",
+            "bio": "Stefan is a senior majoring in psychology with a minor in philosophy. He is interested clinical psychology as well as the neurocognitive underpinnings of curiosity and learning. Stefan is from Laconia, NH, and enjoys reading, photography, hiking, and creative writing.",
             "img": "StefanNevajdic2026.jpg"
         },
-        {
-            "name": "Jaclyn Reynolds",
-            "type": "RA",
-            "bio": "Jaclyn is a junior majoring in psychology at UNH. She is interested in developmental psychology and curious about the impacts of environments in children’s lives. Jaclyn is from Raymond, NH, and likes to spend time taking walks, listening to music, and finding new cafes to try.",
-            "img": "JaclynReynolds2026.jpg"
-        },
+
         {
             "name": "Julia Rowe",
             "type": "RA",
@@ -133,7 +154,7 @@
         {
             "name": "Ally Thoman",
             "type": "RA",
-            "bio": "Ally is a freshman majoring in psychology at the University of New Hampshire. She’s from Massachusetts and enjoys spending her time reading, hanging out with friends, and going to the gym. She’s interested in clinical psychology and overall learning more about the research process to help prepare her for her future.",
+            "bio": "Ally is a sophomore majoring in psychology at the University of New Hampshire. She's from Massachusetts and enjoys spending her time reading, hanging out with friends, and going to the gym. She’s interested in clinical psychology and overall learning more about the research process to help prepare her for her future.",
             "img": "AllyThoman2026.jpg"
         },
         {
@@ -156,8 +177,25 @@
             "bio": "Sydney is a fourth-year psychology student, pursuing a human development and family studies minor at UNH. She is from Northern Virginia. In her free time, she is a competitive powerlifter and fitness influencer. She is interested in further studying developmental psychology and trauma in children.",
             "img": "SydneyStaples.png",
             "alumni": true
+        },
+        {
+            "name": "Grace Burnett",
+            "type": "RA",
+            "bio": "Grace is a junior majoring in Psychology as well as Spanish at UNH. She is interested in clinical psychology and public policy advocacy. Grace is from Concord, New Hampshire, and outside of the lab she enjoys reading, hiking, live music, and pickleball.",
+            "img": "GraceBurnett.jpg"
+        },
+        {
+            "name": "Jasmine Tsang",
+            "type": "RA",
+            "bio": "Jasmine is a junior majoring in psychology at the University of New Hampshire. She is interested in Social Psychology as well as Industrial-Organizational Psychology. Jasmine is from Hooksett, NH and enjoys listening to music, swimming, and baking while outside the lab.",
+            "img": "anonymous.png"
+        },
+        {
+            "name": "Burke Zimmer",
+            "type": "RA",
+            "bio": "Burke is a junior majoring in psychology. He is interested in understanding the underlying mechanisms that shape people into who they are. When he is not in the lab, he enjoys playing games, having meaningful conversations, and anything baseball.",
+            "img": "BurkeZimmer.png"
         }
-
     ]
         
 }
