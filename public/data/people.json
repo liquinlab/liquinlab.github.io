@@ -52,6 +52,18 @@
                 }
             ]
         },
+                {
+            "name": "Will Gaudreau",
+            "type": "Lab Manager",
+            "bio": "BIO!",
+            "img": "anonymous.png",
+            "links": [
+                {
+                    "name": "email",
+                    "url": "mailto:william.gaudreau@unh.edu"
+                }
+            ]
+        },
         {
             "name": "Madeline Klotz",
             "type": "Grad Student",
